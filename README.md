@@ -1,7 +1,7 @@
 # NEWS-Extraction-and-Recommendation - NewsNest
 
-## Live application Links
-[![Codelabs Documentation](https://img.shields.io/badge/Documentation-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1yn33qnyUTIxieBXBZZAm4bzBdluRUbPZFxFfTfJFaYc#0)
+## Documentation
+[![Codelabs Documentation](https://img.shields.io/badge/Codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1yn33qnyUTIxieBXBZZAm4bzBdluRUbPZFxFfTfJFaYc#0)
 
 ## Problem Statement 
 Accessing and analysing diverse news sources is cumbersome, leading to information overload and a lack of personalised experiences. Manual scanning and filtering news based on interests is time-consuming, and a real-time notifier on latest news tailored to individual interests is required. A scalable data engineering solution is needed to automate news scraping from reliable sources, processing, and delivery, ensuring personalised, real-time updates while prioritising data integrity and user engagement.
