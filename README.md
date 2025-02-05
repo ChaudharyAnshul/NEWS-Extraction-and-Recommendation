@@ -1,12 +1,7 @@
 # NEWS-Extraction-and-Recommendation - NewsNest
 
 ## Live application Links
-[![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1yn33qnyUTIxieBXBZZAm4bzBdluRUbPZFxFfTfJFaYc#0)
-
-- Airflow (not live): http://35.184.124.125:8080/login/
-- Fast API Auth (not live): http://34.134.136.79:8000/
-- Fast API Services (not live): http://35.193.161.238:8010/
-- Streamlit Application (not live): http://35.225.127.225:8501/
+[![Codelabs Documentation](https://img.shields.io/badge/Documentation-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1yn33qnyUTIxieBXBZZAm4bzBdluRUbPZFxFfTfJFaYc#0)
 
 ## Problem Statement 
 Accessing and analysing diverse news sources is cumbersome, leading to information overload and a lack of personalised experiences. Manual scanning and filtering news based on interests is time-consuming, and a real-time notifier on latest news tailored to individual interests is required. A scalable data engineering solution is needed to automate news scraping from reliable sources, processing, and delivery, ensuring personalised, real-time updates while prioritising data integrity and user engagement.
